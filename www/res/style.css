@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'QuattrocentoKF';
+	src: url('quattrocento.woff2') format('woff2'),
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+body {
+	font-family: QuattrocentoKF, sans-serif;
+	text-align: center;
+}
